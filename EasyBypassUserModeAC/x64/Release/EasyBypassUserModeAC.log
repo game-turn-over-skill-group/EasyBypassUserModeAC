@@ -1,0 +1,23 @@
+﻿  Building 'EasyBypassUserModeAC' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\EasyBypassUserModeAC.inf
+  Stamping [Version] section with DriverVer=09/17/2022,14.48.1.251
+  main.cpp
+  EasyBypassUserModeAC.vcxproj -> C:\Users\xmaple555\Desktop\EasyBypassUserModeAC\x64\Release\EasyBypassUserModeAC.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\xmaple555\Desktop\EasyBypassUserModeAC\x64\Release\EasyBypassUserModeAC.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\xmaple555\Desktop\EasyBypassUserModeAC\x64\Release\EasyBypassUserModeAC\easybypassusermodeac.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\xmaple555\Desktop\EasyBypassUserModeAC\x64\Release\EasyBypassUserModeAC\easybypassusermodeac.cat
+  
