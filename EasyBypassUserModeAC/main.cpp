@@ -78,6 +78,6 @@ extern "C" NTSTATUS  DriverEntry(PDRIVER_OBJECT pDriverObject, PUNICODE_STRING p
     Log("[TITANHIDE] Hooks::Initialize() hooked %d functions\r\n", Hooks::Initialize());
   
    
-	return STATUS_SUCCESS;
+    return STATUS_SUCCESS;
 }
 
