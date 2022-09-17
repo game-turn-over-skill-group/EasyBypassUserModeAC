@@ -3,7 +3,7 @@ EasyBypassUserModeAC is a x64 Windows kernel driver intented to hide debuggers f
 
 As you can see, almost the code can be found on Google and github, I just add shadow SSDT in TitanHide, but the main goal here is to show how to write a Windows kernel driver. To get more detail about SSDT hooking, please refer to the original repository.
 
-# Reference
+# References
 * [TitanHide](https://github.com/mrexodia/TitanHide)
 * [Hook SSDT(Shadow)](https://m0uk4.gitbook.io/notebooks/mouka/windowsinternal/ssdt-hook)
 * [Kernel Mode Driver Framework >> C/C++ (PNP)](https://steward-fu.github.io/website/driver/kmdf/cpp_pnp_thread.htm)
